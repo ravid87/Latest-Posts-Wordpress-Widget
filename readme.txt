@@ -1,16 +1,21 @@
 === Plugin Name ===
 Contributors: ravidhu
-Tags: widget, categories, category, list posts,
+Tags: widget, categories, category, list posts
 Requires at least: 3.0.1
 Tested up to: 4.0
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-List the lastest posts from a category with the possibility to display an excerpt and/or date
+List the lastest posts from a category with the possibility to display an excerpt and/or date.
 
 == Description ==
 
-List the lastest posts from a category and with the possibility to display an excerpt and/or date of posts. The number of post that you want to display can be fixed too.
+List the lastest posts from a category or from all categories:
+
+* The excerpt of each post can be displayed.
+* The date of each post can be displayed.
+* The number of posts that you want to display can be fixed.
+* The categories of the post can be displayed (if one category is selected, the selected one is not displayed).
 
 == Installation ==
 
