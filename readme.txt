@@ -1,13 +1,13 @@
 === Plugin Name ===
 Contributors: ravidhu
-Tags: widget, categories, category, list posts
+Tags: widget, categories, category, list posts, featured image
 Requires at least: 3.0.1
 Tested up to: 4.0
 Stable tag: 1.0
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-List the lastest posts from a category with the possibility to display an excerpt and/or date.
+List the lastest posts from a category.
 
 == Description ==
 
@@ -17,6 +17,8 @@ List the lastest posts from a category or from all categories:
 * The date of each post can be displayed.
 * The number of posts that you want to display can be fixed.
 * The categories of the post can be displayed (if one category is selected, the selected one is not displayed).
+* The featured image can be display or, if it is not set, the first image of the post is selected.
+* The image can be displayed before or after the title.
 
 == Installation ==
 
