@@ -29,6 +29,16 @@ List the lastest posts from a category or from all categories:
 
 == Changelog ==
 
+= 1.1 =
+* The featured image can be display or, if it is not set, the first image of the post is selected.
+* The image can be displayed before or after the title.
+
 = 1.0 =
 * First version
+
+== Upgrade Notice ==
+
+= 1.1 =
+A new feature allow to display the featured image or the first image of the post.
+
 
