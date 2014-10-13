@@ -2,7 +2,7 @@
 /*
   Plugin Name: Latest Posts Widget
   Description: List the lastest posts from a category with the possibility to display an excerpt and/or date
-  Version: 1.0
+  Version: 1.1
   Author: Ravidhu Dissanayake
   Author URI: http://ravidhu.com
   License: GPL
